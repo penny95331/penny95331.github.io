@@ -1,0 +1,38 @@
+body{
+	font-family: Microsoft JhengHei;
+	background-image:url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+}
+
+
+
+.col-lg-5{
+	background-color: rgba(255,73,73,0.62);
+	
+}
+
+/*.col-lg-5{
+	position:absolute;
+    left:0;
+    animation-name:oxxo;
+    animation-duration:2s;
+    animation-iteration-count:infinite;
+}
+
+
+@keyframes oxxo{
+    from{
+        left:0;
+    }
+    to{
+        left:100px;
+    }
+}*/
+
+.text{
+	height: 100vh;
+}
+
